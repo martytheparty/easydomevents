@@ -1,4 +1,8 @@
 # easydomevents
+
+bower install git://github.com/martytheparty/easydomevents#master
+
+
 This library wraps the existing DOM events system.  It exposes the existing
 system in pub-sub way. It's just sugar.  This library is 100% specific to the
 DOM (browser only) and has no application on the server side.
